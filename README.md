@@ -1,3 +1,18 @@
+notes from class with Pierre:
+
+1. Create a React App
+   1.1 Go to workspace
+   1.2 npx create-react-app yourAppName
+2. Start the React App
+3. Open the code of the React App
+4. Create a component (
+   4.1 Create one file for one component
+   4.2 Create either by class or function
+5. Export the component
+6. Import the component into App component in the JSX
+7. Call it twice
+8. Literally pass down the cd to the components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
